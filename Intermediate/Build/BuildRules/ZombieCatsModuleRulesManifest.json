@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UnrealEngineProjects\\ZombieCats\\Source\\ZombieCats\\ZombieCats.Build.cs",
+		"E:\\UnrealEngineProjects\\ZombieCats\\Source\\ZombieCats.Target.cs",
+		"E:\\UnrealEngineProjects\\ZombieCats\\Source\\ZombieCatsEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}
